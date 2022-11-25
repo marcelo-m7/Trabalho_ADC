@@ -1,0 +1,5 @@
+Artista = []
+Espetáculo = []
+Cliente = []
+Bilhete = []
+
