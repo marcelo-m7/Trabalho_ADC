@@ -1,5 +1,0 @@
-Artista = []
-Espetáculo = []
-Cliente = []
-Bilhete = []
-
