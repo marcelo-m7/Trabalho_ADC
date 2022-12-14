@@ -1,3 +1,0 @@
-Temos de criar o programa em Python e dividir as tarefas pelo Trello.
-Será avaliado os comentários, as atualizações e etc.
-Temos de ter 2 Blocos a funcionar: Gestor e Eventos
