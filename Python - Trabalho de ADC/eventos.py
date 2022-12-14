@@ -8,10 +8,9 @@ def cria_evento():
     artista = input("Artista ")
     sala = input("Sala ").upper()
     pvp = float(input("PVP do bilhete "))
-#    data_inicio = input("Data de início (DD-MM-AAA)? ")
-#    data_fim = input("Data de fim (DD-MM-AAA)? ")
+    data_inicio = input("Data de início (DD-MM-AAA)? ")
 
-    return {"Artista ": artista, "Sala ": sala, "Nome do evento: ": nome_evento, "PVP do bilhete": pvp}
+    return {"Artista ": artista, "Sala ": sala, "Nome do evento: ": nome_evento, "Data do evento": data_inicio, "PVP do bilhete": pvp}
 
 
 def imprime_lista_de_eventos(lista_de_eventos):
